@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7037" started-at="2020-07-05T15:12:45 IST" finished-at="2020-07-05T15:12:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7037" started-at="2020-07-05T15:12:45 IST" finished-at="2020-07-05T15:12:52 IST">
+      <class name="org.qa.api.rahulShetty.addBooks.addBookes">
+        <test-method status="PASS" signature="createBooks4mDP(java.lang.String, java.lang.String)[pri:0, instance:org.qa.api.rahulShetty.addBooks.addBookes@10bbd20a]" name="createBooks4mDP" duration-ms="5901" started-at="2020-07-05T15:12:45 IST" data-provider="BooksData" finished-at="2020-07-05T15:12:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a2se]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3344]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooks4mDP -->
+        <test-method status="PASS" signature="createBooks4mDP(java.lang.String, java.lang.String)[pri:0, instance:org.qa.api.rahulShetty.addBooks.addBookes@10bbd20a]" name="createBooks4mDP" duration-ms="433" started-at="2020-07-05T15:12:51 IST" data-provider="BooksData" finished-at="2020-07-05T15:12:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[re2f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooks4mDP -->
+        <test-method status="PASS" signature="createBooks4mDP(java.lang.String, java.lang.String)[pri:0, instance:org.qa.api.rahulShetty.addBooks.addBookes@10bbd20a]" name="createBooks4mDP" duration-ms="606" started-at="2020-07-05T15:12:52 IST" data-provider="BooksData" finished-at="2020-07-05T15:12:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[de5r]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooks4mDP -->
+      </class> <!-- org.qa.api.rahulShetty.addBooks.addBookes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
