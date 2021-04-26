@@ -20,7 +20,7 @@
 		<guice.version>1.0</guice.version>
 		<saxon.version>8.7</saxon.version>
 		<velocity.version>1.7</velocity.version>
-		<commonsio.version>2.6</commonsio.version>
+		<commonsio.version>2.7</commonsio.version>
 		<reportng.version>1.1.2</reportng.version>
 		<json.version>1.1.1</json.version>
 		<guava.version>23.0</guava.version>
